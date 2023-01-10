@@ -3,7 +3,7 @@ First script to test ChakraUI with React on TypeScript for supv_core
 
 :fr:
 
-# Télécharger code source ou la relesae
+# Télécharger code source ou la release
 
 __Release :__
 - Regardez a droite sur github vous pouvez voir la section *release*, télécharger le .zip directement ici avoir juste a ensure la ressource dans votre .cfg
