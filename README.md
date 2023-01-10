@@ -1,7 +1,7 @@
 ## supv_dialog
 First script to test ChakraUI with React on TypeScript for supv_core
 
-[fr]
+:fr:
 
 # Télécharger code source ou la relesae
 
@@ -31,7 +31,7 @@ else
 end
 ```
 
-[en]
+:en:
 
 # Download source-code or release?
 
