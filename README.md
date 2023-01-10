@@ -31,7 +31,7 @@ else
 end
 ```
 
-:en:
+:uk:
 
 # Download source-code or release?
 
