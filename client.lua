@@ -43,7 +43,7 @@ exports('CreateInteractDialog', CreateInteractDialog)
 
 if test then
     RegisterCommand('tt1', function()
-        local handcuff = CreateInteractDialog("Chauve?", "Une personne veut vous mettre la boule a zéro!")
+        local handcuff = CreateInteractDialog("Menotter?", "Une personne souhaite vous menottez!")
         if handcuff then print(handcuff, 'if handcuff') else print(handcuff, 'else handcuff') end
     end, false)
 
